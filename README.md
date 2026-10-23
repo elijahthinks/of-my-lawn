@@ -69,6 +69,11 @@ docs/           Architecture, level design, visual design, App Store release
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Credits
+
+Created by [Elijah Morris](https://github.com/elijahthinks), with help from
+Claude Code.
+
 ## License
 
 [MIT](LICENSE)
